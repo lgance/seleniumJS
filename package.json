@@ -8,7 +8,7 @@
     "iedriver": "^3.14.1",
     "moment": "^2.24.0",
     "selenium-webdriver": "^4.0.0-alpha.1",
-    "xlsx": "^0.14.3",
+    "xlsx": "^0.17.0",
     "xmlbuilder": "^10.1.1"
   },
   "description": "automation",
